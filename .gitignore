@@ -1,0 +1,9 @@
+chrome-linux/
+chrome-linux.zip
+crate/target
+node_modules/
+dist/
+.env
+package-lock.json
+wrangler.toml
+worker/
